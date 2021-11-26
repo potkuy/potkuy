@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Pacifico&display=swap");
+
+.slider h3,
+.slider h5,
+.clients h3 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+.parallax-container {
+  height: 270px;
+}
+
+.paragraf {
+  text-align: justify;
+}
+
+section,
+footer {
+  padding: 20px 0;
+}
+
+.logo img {
+  height: 60%;
+  width: 60%;
+}
+
+.fontku-nav {
+  font-family: "Kaushan Script", cursive;
+}
+
+/* .m3 {
+  width: 320px !important;
+} */
